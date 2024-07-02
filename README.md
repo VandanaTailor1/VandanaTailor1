@@ -1,16 +1,18 @@
-## Hi there 👋
+##  About Me 👋
 
-<!--
-**VandanaTailor1/VandanaTailor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Vandana Tailor, a passionate software engineer and Android developer.My love for technology and coding drives me to create innovative and efficient applications that make a difference.
 
-Here are some ideas to get you started:
+With extensive experience in Android development, I excel in utilizing a diverse range of technologies including XML, Java, Kotlin, Room database, Firebase, Hilt-Dagger, Coroutines, MVVM architecture, and Retrofit. My proficiency in debugging ensures that I deliver robust and reliable software solutions.
+  
+ ## 🌱 Skills and Technologies 
+- **Programming Languages:** Java, Kotlin
+- **Technologies:** Android, XML, Room database, Firebase, Hilt-Dagger, Coroutines, MVVM architecture, Retrofit
+- **Expertise:** Debugging, App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## ⚡ Goals and Interests 
+- Currently dedicated to mastering Kotlin in-depth to start working with Jetpack Compose.
+- Enthusiastic about leveraging cutting-edge technologies to create impactful and user-friendly applications.
+
+## 😄 Contact Information 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/Vandana-Tailor)
+
